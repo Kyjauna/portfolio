@@ -1,0 +1,58 @@
+body {
+  background: #1e1e1e;
+}
+
+.App {
+  background: #1e1e1e;
+  color: #ffffff;
+  font-family: monospace;
+}
+
+.icons {
+  text-align: center;
+}
+
+a {
+  color:  #ffffff;
+  float:none;
+  display:inline-block;
+  zoom:1;
+}
+
+.tabs-div {
+  margin-top: 30px;;
+  width: 100%;
+}
+
+.nav-tabs {
+  margin: auto;
+  width: 100%;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: monospace;
+  justify-content: center;
+  border-bottom: 3px solid #ffbd59;
+}
+
+.nav-tabs .nav-link {
+  float: none !important;
+  display: inline-block !important;
+  zoom: 1;
+}
+
+.nav-tabs .nav-link.active {
+  color: #ffffff;
+  background-color: #ffbd59;
+  border-color: #ffbd59;
+}
+
+.nav-tabs .nav-link:hover {
+  color: #ffffff;
+  background-color:#ffbd59;
+  border-color: #ffbd59;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+}
